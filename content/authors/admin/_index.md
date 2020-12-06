@@ -6,7 +6,7 @@ title: Wentao Yu
 superuser: true
 
 # Role/position
-role: Undergraduate of Electronic Science and Engineering
+role: Undergraduate Student of School of Electronic Science and Engineering
 
 # Organizations/Affiliations
 organizations:
